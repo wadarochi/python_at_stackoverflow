@@ -1,8 +1,8 @@
 # 2016-08-28
 
-* Can a line of Python code know its indentation nesting level? - [52/4]
-* Better way to swap elements in list? - [21/11]
-* Imported a Python module; why does a reassigning a member in it also affect an import elsewhere? - [17/5]
+* [Can a line of Python code know its indentation nesting level?](section1.md) - [52/4]
+* [Better way to swap elements in list?](section2.md) - [21/11]
+* [Imported a Python module; why does a reassigning a member in it also affect an import elsewhere?](section3.md) - [17/5]
 * How to get a python script to invoke "python -i" when called normally? - [17/5]
 * NumPy performance: uint8 vs. float and multiplication vs. division? - [12/3]
 * Updating a list within a tuple - [10/1]
