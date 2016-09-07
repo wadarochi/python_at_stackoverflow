@@ -4,7 +4,7 @@
 * [Better way to swap elements in list?](section2.md) - [21/11]
 * [Imported a Python module; why does a reassigning a member in it also affect an import elsewhere?](section3.md) - [17/5]
 * [How to get a python script to invoke "python -i" when called normally?](section4.md) - [17/5]
-* NumPy performance: uint8 vs. float and multiplication vs. division? - [12/3]
+* [NumPy performance: uint8 vs. float and multiplication vs. division?](section5.md) - [12/3]
 * Updating a list within a tuple - [10/1]
 * Matching Unicode word boundaries in Python - [10/1]
 * How do I release memory used by a pandas dataframe? - [9/2]
