@@ -8,3 +8,4 @@
  - [如何让python脚本自行调用"python -i"](chapter1/section4.md)
  - [Numpy性能: uint8 vs. float，乘法运算 vs. 除法运算？](chapter1/section5.md)
 * [2016-09-03](chapter2/README.md)
+* [2016-09-10](chapter3/README.md)
